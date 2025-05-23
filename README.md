@@ -31,14 +31,14 @@ Além das funcionalidades previstas inicialmente, foram implementadas **funciona
 - ✅ **Divisão de tarefas pelo método Kanban**, com as etapas: “A fazer”, “Executando” e “Concluídas”  
 - ✅ **Dashboard institucional** com indicadores de usuários ativos, projetos, tarefas e órgãos
 
-O sistema foi desenvolvido em **Django** com estrutura em **microserviços**, autenticação via **JWT**, documentação **OpenAPI (Swagger)** e modularização por apps independentes. O projeto permite o gerenciamento de projetos, tarefas, atores e órgãos com autenticação de usuários, além de oferecer uma API REST completa.
+O sistema foi desenvolvido em **Django** com estrutura em **microserviços**, autenticação via **JWT**, documentação **OpenAPI (Swagger)** e modularização por apps independentes. O projeto permite o gerenciamento de projetos, tarefas, atores e órgãos com autenticação de usuários, além de oferecer uma **API** completa.
 
 ---
 
 ## 📁 Gestor de Projetos
 
 **Gestor de Projetos** é uma aplicação Django estruturada em arquitetura de **microserviços**, voltada para o **gerenciamento institucional de projetos**, incluindo tarefas, atores, órgãos e autenticação.  
-A API é **RESTful** e suporta autenticação via **JWT**, além de login tradicional por sessão.
+A **API** e suporta autenticação via **JWT**, além de login tradicional por sessão.
 
 ---
 
