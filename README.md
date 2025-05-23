@@ -1,4 +1,40 @@
-# 📁 Gestor de Projetos
+
+# Trabalho de Análise e Desenvolvimento de Sistemas
+
+---
+
+## 🎓 Introdução
+
+Este trabalho foi proposto pelo professor **Roney Malaguti**, responsável pela disciplina **Análise e Desenvolvimento de Sistemas**, ministrada no turno noturno da **Universidade Wyden – UniRuy**, no dia **20 de fevereiro de 2025**.
+
+Para a realização da atividade, os discentes foram organizados em grupos com, no máximo, seis integrantes. O objetivo consistia no desenvolvimento de um **projeto em Python**, utilizando um **framework à escolha dos alunos**, a ser apresentado no dia **29 de maio de 2025**. A entrega oficial deveria ser realizada por meio de um repositório no GitHub.
+
+Com base nessas diretrizes, foi criado este repositório para o envio do projeto pelos seguintes membros da equipe:
+
+- Dimitrius Khouri Mariano dos Santos  
+- Guilherme [Sobrenome]  
+- Luiz [Sobrenome]  
+- João Victor Miranda  
+- Júlio [Sobrenome]  
+
+---
+
+## 💻 Sobre o Desenvolvimento do Projeto
+
+O tema escolhido pela equipe foi o desenvolvimento de uma **aplicação web para gestão de projetos**, com foco em ambientes institucionais. A ideia foi sugerida por **Rafael Borges**, coordenador da **SEMIT**, sob a orientação do professor **Pedro Kislansky**, gerente da SEMIT e docente da **UniRuy**.
+
+Após reuniões com os representantes da coordenação para compreender as demandas do sistema, os líderes da equipe elaboraram um **Documento de Requisitos**, disponível neste repositório, que serviu como base para o planejamento e execução do projeto.
+
+Além das funcionalidades previstas inicialmente, foram implementadas **funcionalidades extras** com base em sugestões de colegas e do professor Roney:
+
+- ✅ **Chat interno entre usuários**  
+- ✅ **Divisão de tarefas pelo método Kanban**, com as etapas: “A fazer”, “Executando” e “Concluídas”  
+
+O sistema foi desenvolvido em **Django** com estrutura em **microserviços**, autenticação via **JWT**, documentação **OpenAPI (Swagger)** e modularização por apps independentes. O projeto permite o gerenciamento de projetos, tarefas, atores e órgãos com autenticação de usuários, além de oferecer uma API REST completa.
+
+---
+
+## 📁 Gestor de Projetos
 
 **Gestor de Projetos** é uma aplicação Django estruturada em arquitetura de **microserviços**, voltada para o **gerenciamento institucional de projetos**, incluindo tarefas, atores, órgãos e autenticação.  
 A API é **RESTful** e suporta autenticação via **JWT**, além de login tradicional por sessão.
@@ -146,6 +182,15 @@ orgao_service/       ← Órgãos e setores institucionais
 
 🚧 Em desenvolvimento  
 Funcionalidades básicas de CRUD e autenticação já implementadas.
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob os termos da **MIT License**.
+
+---
+
 
 ---
 
