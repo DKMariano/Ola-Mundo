@@ -15,7 +15,7 @@ Com base nessas diretrizes, foi criado este repositório para o envio do projeto
 - Guilherme [Sobrenome]  
 - Luiz [Sobrenome]  
 - João Victor Miranda  
-- Júlio [Sobrenome]  
+- Júlio Cesar Trabuco
 
 ---
 
