@@ -1,11 +1,11 @@
 
-# Trabalho de Análise e Desenvolvimento de Sistemas
+# Trabalho de Desenvolvimento Rápido de Aplicações em Python
 
 ---
 
 ## 🎓 Introdução
 
-Este trabalho foi proposto pelo professor **Roney Malaguti**, responsável pela disciplina **Análise e Desenvolvimento de Sistemas**, ministrada no turno noturno da **Universidade Wyden – UniRuy**, no dia **20 de fevereiro de 2025**.
+Este trabalho foi proposto pelo professor **Roney Malaguti**, responsável pela disciplina **Desenvolvimento Rápido de Aplicações em Pythons**, ministrada no turno noturno da **Universidade Wyden – UniRuy**, no dia **20 de fevereiro de 2025**.
 
 Para a realização da atividade, os discentes foram organizados em grupos com, no máximo, seis integrantes. O objetivo consistia no desenvolvimento de um **projeto em Python**, utilizando um **framework à escolha dos alunos**, a ser apresentado no dia **29 de maio de 2025**. A entrega oficial deveria ser realizada por meio de um repositório no GitHub.
 
