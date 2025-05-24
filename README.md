@@ -21,17 +21,43 @@ Com base nessas diretrizes, foi criado este repositório para o envio do projeto
 
 ## 💻 Sobre o Desenvolvimento do Projeto
 
-O tema escolhido pela equipe foi o desenvolvimento de uma **aplicação web para gestão de projetos**, com foco em ambientes institucionais. A ideia foi sugerida por **Rafael Borges**, coordenador da **SEMIT**, sob a orientação do professor **Pedro Kislansky**, gerente da SEMIT e docente da **UniRuy**.
+A proposta do sistema foi sugerida por **Rafael Borges**, coordenador da SEMIT, com orientação do professor **Pedro Kislansky**, gerente da SEMIT e docente da UniRuy. O projeto foi desenvolvido como parte da disciplina de **Análise e Desenvolvimento de Sistemas**, sob a supervisão do professor **Roney Malaguti**.
 
-Após reuniões com os representantes da coordenação para compreender as demandas do sistema, os líderes da equipe elaboraram um **Documento de Requisitos**, disponível neste repositório, que serviu como base para o planejamento e execução do projeto.
+A equipe realizou reuniões com representantes da coordenação para levantamento das demandas reais e, a partir disso, elaborou um **Documento de Requisitos** que serviu como guia para a implementação da solução.
 
-Além das funcionalidades previstas inicialmente, foram implementadas **funcionalidades extras** com base em sugestões de colegas e do professor Roney:
+---
 
-- ✅ **Chat interno entre usuários**  
-- ✅ **Divisão de tarefas pelo método Kanban**, com as etapas: “A fazer”, “Executando” e “Concluídas”  
-- ✅ **Dashboard institucional** com indicadores de usuários ativos, projetos, tarefas e órgãos
+## 🚀 Funcionalidades Principais  
+*(Com base em sugestões de colegas e exigências de Rafael Borges)*
 
-O sistema foi desenvolvido em **Django** com estrutura em **microserviços**, autenticação via **JWT**, documentação **OpenAPI (Swagger)** e modularização por apps independentes. O projeto permite o gerenciamento de projetos, tarefas, atores e órgãos com autenticação de usuários, além de oferecer uma **API** completa.
+- ✅ Cadastro, visualização e edição de **projetos**
+- ✅ Atribuição e acompanhamento de **tarefas**
+- ✅ Registro de **atores** envolvidos nos projetos
+- ✅ Gerenciamento de **órgãos institucionais**
+- ✅ **Autenticação de usuários** via JWT
+- ✅ API RESTful completa com documentação via **Swagger (OpenAPI)**
+
+---
+
+## 🔧 Funcionalidades Extras Implementadas  
+*(Com base em sugestões de colegas e exigências do professor Roney Malaguti)*
+
+- ✅ **Chat interno** entre usuários  
+- ✅ **Quadro Kanban** com as etapas: *A Fazer*, *Executando* e *Concluídas*  
+- ✅ **Dashboard institucional** com indicadores:
+  - Total de usuários ativos  
+  - Quantidade de projetos em andamento  
+  - Distribuição de tarefas por status  
+  - Órgãos participantes  
+
+- ✅ **Documentação e suporte completos**, incluindo:
+  - 📄 Documento de Requisitos do Sistema (DRS)  
+  - 📘 Documentação técnica com fluxogramas e modelo entidade-relacionamento (ER)  
+  - 📂 README detalhado para desenvolvedores  
+  - ❓ FAQ com perguntas frequentes  
+  - 🧑‍🏫 Manual do Usuário ilustrado  
+  - 🧠 Código-fonte totalmente **comentado** para facilitar entendimento
+
 
 ---
 
