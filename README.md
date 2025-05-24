@@ -12,8 +12,8 @@ Para a realização da atividade, os discentes foram organizados em grupos com, 
 Com base nessas diretrizes, foi criado este repositório para o envio do projeto pelos seguintes membros da equipe:
 
 - Dimitrius Khouri Mariano dos Santos  
-- Guilherme [Sobrenome]  
-- Luiz [Sobrenome]  
+- Guilherme Miguel Neto Santa Rosa 
+- Luiz Fernando Ferreira Barbosa
 - João Victor Miranda  
 - Júlio Cesar Trabuco
 
