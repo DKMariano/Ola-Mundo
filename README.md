@@ -28,7 +28,7 @@ A equipe realizou reuniões com representantes da coordenação para levantament
 ---
 
 ## 🚀 Funcionalidades Principais  
-*(Com base em sugestões de colegas e exigências de Rafael Borges)*
+*(Com base em exigências de Rafael Borges)*
 
 - ✅ Cadastro, visualização e edição de **projetos**
 - ✅ Atribuição e acompanhamento de **tarefas**
